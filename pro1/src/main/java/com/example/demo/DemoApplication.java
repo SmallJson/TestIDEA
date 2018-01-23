@@ -12,4 +12,7 @@ public class DemoApplication {
 	public void sayHello(){
 		System.out.println("hello world");
 	}
+	public void sayFeacherDev1(){
+
+	}
 }
